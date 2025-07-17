@@ -13,6 +13,7 @@ The main goal of this dashboard is to *analyze sales performance* across differe
 - *Average Sales per Transaction*: $141
 - *Number of Items Sold*: 8,523
 - *Average Rating*: 3.9 stars
+- ![image alt](https://github.com/yaminisivapavani2006/Blinkit-Analysis/blob/main/Sales.png)
 
 ---
 

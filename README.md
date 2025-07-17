@@ -95,7 +95,7 @@ Visual bar chart shows sales across top categories:
 
 ## 📂 File Info
 - *Tool Used*: Power BI
-- *Data Source*: Internal Blinkit dataset (https://github.com/yaminisivapavani2006/Blinkit-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx)
+- *Data Source*: Internal Blinkit dataset (BlinkIT%20Grocery%20Data.xlsx)
 - *Visual Elements*: KPIs, bar charts, line graphs, pie charts, tables
 
 ---

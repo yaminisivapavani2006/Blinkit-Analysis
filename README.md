@@ -33,7 +33,7 @@ Easily slice and dice the data using:
 ### 📦 Total Sales by Category
 Visual bar chart shows sales across top categories:
 - Fruits and Vegetables: $0.18M
-- Snack Foods: $0.18M
+- Snack Foods: $0.18M                                        ![image_alt](https://github.com/yaminisivapavani2006/Blinkit-Analysis/blob/main/Total%20Sales.png)
 - Household: $0.14M
 - Frozen Foods: $0.12M
 - Dairy, Canned Goods, and more…
